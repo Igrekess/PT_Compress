@@ -83,7 +83,9 @@ MIT
 ## Author
 
 Yan Senez -- 2026
-[Persistence Theory]([Persistence Theory](https://github.com/Igrekess/PersistenceTheory)
-)
+
+([Persistence Theory](https://github.com/Igrekess/PersistenceTheory)
+
+
 
 
